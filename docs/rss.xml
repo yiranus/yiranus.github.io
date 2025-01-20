@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>雷惠帝博客中国站</title><link>https://yiranus.github.io</link><description>自从得了精神病，整个人都精神了呢！</description><copyright>雷惠帝博客中国站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ooo.0x0.ooo/2025/01/19/OGbwht.jpg</url><title>avatar</title><link>https://yiranus.github.io</link></image><lastBuildDate>Sun, 19 Jan 2025 16:34:04 +0000</lastBuildDate><managingEditor>雷惠帝博客中国站</managingEditor><ttl>60</ttl><webMaster>雷惠帝博客中国站</webMaster><item><title>瞎说实话</title><link>https://yiranus.github.io/post/xia-shuo-shi-hua.html</link><description> 为提高服务质量与用户体验
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>雷惠帝博客中国站</title><link>https://yiranus.github.io</link><description>自从得了精神病，整个人都精神了呢！</description><copyright>雷惠帝博客中国站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ooo.0x0.ooo/2025/01/19/OGbwht.jpg</url><title>avatar</title><link>https://yiranus.github.io</link></image><lastBuildDate>Mon, 20 Jan 2025 16:39:04 +0000</lastBuildDate><managingEditor>雷惠帝博客中国站</managingEditor><ttl>60</ttl><webMaster>雷惠帝博客中国站</webMaster><item><title>网站介绍</title><link>https://yiranus.github.io/post/wang-zhan-jie-shao.html</link><description>本站设有三个分站：新加坡站（主站）使用 腾讯云 配合 Halo 搭建
+中国站 使用 github 配合 cloudflare 搭建
+美国站 使用 website 搭建
+（为规避中国备案政策，中国站使用了海外转发）。</description><guid isPermaLink="true">https://yiranus.github.io/post/wang-zhan-jie-shao.html</guid><pubDate>Mon, 20 Jan 2025 07:12:37 +0000</pubDate></item><item><title>瞎说实话</title><link>https://yiranus.github.io/post/xia-shuo-shi-hua.html</link><description> 为提高服务质量与用户体验
 新加坡站（主站） 使用了服务器部署
 其他均使用静态页面托管
 为躲避工信部“净网”行动辅天盖地的扫描
@@ -33,4 +36,4 @@ f2pool 星火矿池 Dropbox steam 等
 主导风向（上文提到的大厂指上述5家企业）
 为避免大厂窃取本站内容
 请勿在其他网站传播本站内容
-感谢支持。</description><guid isPermaLink="true">https://yiranus.github.io/post/xia-shuo-shi-hua.html</guid><pubDate>Sun, 19 Jan 2025 12:49:29 +0000</pubDate></item><item><title>test two</title><link>https://yiranus.github.io/post/test%20two.html</link><description>new test。</description><guid isPermaLink="true">https://yiranus.github.io/post/test%20two.html</guid><pubDate>Mon, 13 Jan 2025 06:20:09 +0000</pubDate></item></channel></rss>
+感谢支持。</description><guid isPermaLink="true">https://yiranus.github.io/post/xia-shuo-shi-hua.html</guid><pubDate>Sun, 19 Jan 2025 12:49:29 +0000</pubDate></item></channel></rss>
